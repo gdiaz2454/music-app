@@ -1,0 +1,66 @@
+body{
+    background-image: url("http://moziru.com/images/drawn-music-doodle-background-13.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#pagehb{
+  font-size: 50px;
+  font-style: oblique;
+  text-align: center;
+  background-color: rgb(135, 31, 31);
+  border-radius: 5px;
+}
+.musich{
+  color: white;
+  border-style: solid;
+  border-color: black;
+  border-radius: 5px;
+}
+#binfo{
+  font-size: 24px;
+  color: white;
+  background-color: rgb(135, 31, 31);
+  border-radius: 5px;
+  border-style: solid;
+  border-color: black;
+}
+#album{
+  font-size: 24px;
+  border-radius: 5px;
+  background-color: rgb(135, 31, 31);
+  border-color: black;
+}
+#artist{
+  font-size: 24px;
+  border-radius: 5px;
+  background-color: rgb(135, 31, 31);
+  border-color: black;
+}
+input::placeholder {
+  color: white;
+}
+.youclick{
+  font-size: 24px;
+  color: white;
+  background-color: rgb(135, 31, 31);
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
+}
+.panclick{
+  font-size: 24px;
+  color: white;
+  background-color: rgb(135, 31, 31);
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
+}
+.soundclick{
+  font-size: 24px;
+  color: white;
+  background-color: rgb(135, 31, 31);
+  border-style: solid;
+  border-radius: 5px;
+  border-color: black;
+}
